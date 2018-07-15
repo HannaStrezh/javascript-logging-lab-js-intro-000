@@ -1,2 +1,2 @@
 console.error("Warning!")
-console.log"Hello")
+console.log("Hello")
